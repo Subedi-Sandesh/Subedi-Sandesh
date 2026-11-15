@@ -71,7 +71,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[VIDHI.AI](https://github.com/Subedi-Sandesh/[VIDHI_REPO])** | AI legal & administrative assistant for Nepal  | Python, LLMs, RAG |
+| **[VIDHI.AI](https://github.com/Subedi-Sandesh/Vidhi.ai)** | AI legal & administrative assistant for Nepal  | Python, LLMs, RAG |
 | **[RotNot](https://github.com/i-ces/RotNot)** | Smart food spoilage & freshness detection system *(i-CES hackathon)* | flutter, Python, ML |
 | **[Heart-Disease-Prediction](https://github.com/Subedi-Sandesh/Heart-Disease-Prediction)** | ML prediction model & web app | scikit-learn, Streamlit, SQLAlchemy, PostgreSQL |
 | **[MNIST-Digit-Classification](https://github.com/Subedi-Sandesh/MNIST-Digit-Classification)** | Handwritten digit recognition model | Python, PyTorch/NumPy, Jupyter |
