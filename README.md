@@ -67,11 +67,14 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 | Project | Description | Stack |
 |---|---|---|
-| **[Heart-Disease-Prediction](https://github.com/Subedi-Sandesh/Heart-Disease-Prediction)** | ML model + Streamlit app with PostgreSQL storage | scikit-learn, Streamlit, SQLAlchemy |
-| **[VIDHI.AI](https://github.com/Subedi-Sandesh/[VIDHI_REPO])** | AI legal & administrative assistant for Nepal (final year project) | Python, NLP, LLMs |
-| **[MNIST-Digit-Classification](https://github.com/Subedi-Sandesh/MNIST-Digit-Classification)** | Handwritten digit classifier | Python, Jupyter |
+| **[VIDHI.AI](https://github.com/Subedi-Sandesh/[VIDHI_REPO])** | AI legal & administrative assistant for Nepal  | Python, LLMs, RAG |
+| **[RotNot](https://github.com/i-ces/RotNot)** | Smart food spoilage & freshness detection system *(i-CES hackathon)* | flutter, Python, ML |
+| **[Heart-Disease-Prediction](https://github.com/Subedi-Sandesh/Heart-Disease-Prediction)** | ML prediction model & web app | scikit-learn, Streamlit, SQLAlchemy, PostgreSQL |
+| **[MNIST-Digit-Classification](https://github.com/Subedi-Sandesh/MNIST-Digit-Classification)** | Handwritten digit recognition model | Python, PyTorch/NumPy, Jupyter |
 
 ---
 
@@ -93,5 +96,5 @@
 I'm open to **internships, collaborations, and ML/DL/backend projects**.
 
 <p align="center">
-  <i>"Not drunk, just stochastic."</i>
+  <i>"Not drunk, just stochastic."</i> 
 </p>
