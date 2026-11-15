@@ -63,8 +63,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 | Project | Description | Stack |
 |---|---|---|
 | **[VIDHI.AI](https://github.com/Subedi-Sandesh/Vidhi.ai)** | AI legal & administrative assistant for Nepal  | Python, LLMs, RAG |
